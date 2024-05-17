@@ -119,7 +119,7 @@
         <akka-actor.version>2.6.0-M5</akka-actor.version>
         <bouncycastle.version>1.46</bouncycastle.version>
         <rabbitmq.version>5.15.0</rabbitmq.version>
-        <influxdb.version>3.1.0</influxdb.version>
+        <influxdb.version>7.1.0</influxdb.version>
         <influxdbClient.version>2.23</influxdbClient.version>
         <kotlin-stdlib.version>1.3.50</kotlin-stdlib.version>
         <ST4.version>4.3.3</ST4.version>
